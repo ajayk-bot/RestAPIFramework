@@ -7,6 +7,8 @@ public class GitPractise {
 
 		
 		System.out.println("Test");
+		
+		System.out.println("Adding changes here");
 	}
 
 }
